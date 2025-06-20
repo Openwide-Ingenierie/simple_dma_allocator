@@ -1,6 +1,6 @@
 ## Presentation
 
-This is the example code shown in the article : [LINK]
+This is the example code shown in the article : [here](https://linuxembedded.fr/2025/05/implementation-dun-module-dallocation-memoire-coherente-avec-lapi-dma-sous-linux).
 
 The module is a simple wrapper around the DMA API's allocation method : dma_alloc_coherent, meant to show how the API can be used in the kernel space.  
 
